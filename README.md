@@ -351,9 +351,9 @@ Contributions are welcome! If you'd like to improve this project:
 
 **Project Maintainer**: [Your Name]
 
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Email**: your.email@example.com
+- **GitHub**: [@yourusername](https://github.com/bhavanareddy19)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/bhavanareddy19)
+- **Email**: Bhavana.Vippala@colorado.edu
 - **Project Website**: [Plate-to-Health](https://harshithaattanti1.wixsite.com/platetohealth)
 
 ---
